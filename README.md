@@ -1,6 +1,6 @@
 # rice data
  After appropriate cleaning process to data, rice type prediciton was made with knn, logistic regression and random forest methods.
- The cleaning step was applied in different notebook and the data which appropriate to modelling process export.
+ The cleaning step was applied in different notebook and the data which appropriate to modelling process was exported.
  
  ## Features:
  id: Unique ID of the rice sample
